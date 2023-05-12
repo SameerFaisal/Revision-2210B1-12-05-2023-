@@ -1,0 +1,17 @@
+#output{
+    color: greenyellow;
+}
+button{
+    border: 0px;
+    border-radius: 100px;
+}
+.red{
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+.blue{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
